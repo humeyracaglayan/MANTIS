@@ -51,7 +51,7 @@ The optical forward model is provided as a TorchScript black box for reproducibi
 The forward model and end to end training procedure are fully described in the Methods and Supplementary Information. The complete optics code can be shared upon reasonable request, subject to intellectual property constraints.
 
 ## Dataset  
-Full dataset can be downloaded here Zenodo: DOI 10.5281/zenodo.18609221
+Full dataset can be downloaded here Zenodo: https://zenodo.org/records/18609221 (DOI:10.5281/zenodo.18609221)
 [![](images/dataset.png)](images/dataset.png)
 
 ## Citation
