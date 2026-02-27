@@ -8,7 +8,7 @@
 
 Reference github repository for the paper “Multispectral Extended Depth-of-Field Fluorescence Microscopy with Co-designed Meta-Optics and Neural Reconstruction” by Ipek Anil Atalay Appak, Haobijam Johnson Singh, Sanna Korpela, Teemu O. Ihalainen, Erdem Sahin, Christine Guillemot and Humeyra Caglayan. It includes training and inference code for the deblurring network, and a pretrained optical forward model provided as a TorchScript black box.
 
-The optical model takes a ground truth input and produces a simulated sensor measurement, which can then be reconstructed by the deblurring network.
+The optical model takes a ground truth input and produces a simulated sensor measurement, which can then be reconstructed by the deblurring network. The figure shown above is adapted from Fig. 1 in the paper.
 
 ## Repository contents
 - `main.py`  
