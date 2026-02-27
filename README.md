@@ -1,6 +1,10 @@
 # MANTIS post processing pipeline
 
-[![](images/github_figure.png)](images/github_figure.png)
+<p align="center">
+  <a href="images/github_figure.png">
+    <img src="images/github_figure.png" width="600">
+  </a>
+</p>
 
 Reference github repository for the paper “Multispectral Extended Depth-of-Field Fluorescence Microscopy with Co-designed Meta-Optics and Neural Reconstruction” by Ipek Anil Atalay Appak, Haobijam Johnson Singh, Sanna Korpela, Teemu O. Ihalainen, Erdem Sahin, Christine Guillemot and Humeyra Caglayan. It includes training and inference code for the deblurring network, and a pretrained optical forward model provided as a TorchScript black box.
 
